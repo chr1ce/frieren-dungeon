@@ -20,6 +20,8 @@ the interaction between hardware and software. This meant understanding DMA and 
 understanding the VideoBuffer, VSync (WaitForVBlank), and other GBA development standards to create a game that
 doesn't tear or stutter.
 
+The sprites were made custom, but the background images and the character Frieren were not my own.
+
 ### Setup
 
 The user must have mGBA installed.
