@@ -17,7 +17,7 @@ By default, START is Enter, SELECT is Backspace, and A is X (yeah...).
 
 This was a fun week-long project in my computer organization course at university, intended as an introduction to
 the interaction between hardware and software. This meant understanding DMA and using it to render images faster,
-understanding the VideoBuffer, VSync (WaitForVBlank), and other GBA development standards to create a game that
+understanding the VideoBuffer, VSync (taught as WaitForVBlank and WaitForVDraw), and other GBA development standards to create a game that
 doesn't tear or stutter.
 
 The sprites were made custom, but the background images and the character Frieren were not my own.
