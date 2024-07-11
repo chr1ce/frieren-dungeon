@@ -6,7 +6,7 @@ Frieren is known for taking a chance on any chest, or mimic, that she finds. Can
 ### Game structure
 
 This game is intended for the mGBA emulator, and uses such keybinds as the user has set.
-By default, START is Enter, SELECT is Backspace, and A is X (yeah...).
+By default, START is Enter, SELECT is Backspace, and A is X.
 + You have a choice between three chests. Any one of them could be a mimic... or none of them.
 + You'll never know where the good spells are without checking them all!
 + Press A to interact and check each chest
